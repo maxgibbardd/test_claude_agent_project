@@ -1,0 +1,14 @@
+[
+  {
+    "timestamp": 1754100095670,
+    "memoryTotal": 17179869184,
+    "memoryUsed": 17006002176,
+    "memoryFree": 173867008,
+    "memoryUsagePercent": 98.98796081542969,
+    "memoryEfficiency": 1.0120391845703125,
+    "cpuCount": 10,
+    "cpuLoad": 0.312353515625,
+    "platform": "darwin",
+    "uptime": 3470499
+  }
+]
